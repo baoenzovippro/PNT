@@ -1,0 +1,12 @@
+1
+00:00:01,400 --> 00:00:02,979
+Tôi biết cậu đang giở trò gì rồi.
+
+2
+00:00:02,980 --> 00:00:05,119
+Tôi không mắc bẫy mấy trò này của cậu đâu.
+
+3
+00:00:07,540 --> 00:00:10,799
+Xem ra cậu sắp bỏ lỡ tiết mục đặc biệt mà tôi đã chuẩn bị cho cậu rồi.
+

@@ -1,0 +1,16 @@
+1
+00:00:01,060 --> 00:00:02,719
+Cậu xem bây giờ là mấy giờ rồi.
+
+2
+00:00:05,120 --> 00:00:07,239
+Chúng ta đã không nói chuyện với nhau nửa tiếng đồng hồ rồi đấy.
+
+3
+00:00:12,640 --> 00:00:13,699
+Lần trước chưa nói chuyện xong,
+
+4
+00:00:14,040 --> 00:00:15,079
+chúng ta làm lại lần nữa đi.
+

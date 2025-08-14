@@ -1,0 +1,4 @@
+1
+00:00:01,360 --> 00:00:03,819
+Cậu có thể điều khiển cho hổ khẩu của mình tạo thành một góc chín mươi độ không？
+
