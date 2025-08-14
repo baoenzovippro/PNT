@@ -1,0 +1,16 @@
+1
+00:00:00,300 --> 00:00:01,639
+Tôi tham gia với các cậu!
+
+2
+00:00:01,760 --> 00:00:02,899
+Tôi cược team Thu Thiên - Thu Nguyệt thắng.
+
+3
+00:00:04,120 --> 00:00:06,239
+Đó là vì cậu không biết tiềm năng của Tử Hàm thôi.
+
+4
+00:00:06,320 --> 00:00:08,619
+Á… lẽ nào tôi chọn sai phe rồi？
+

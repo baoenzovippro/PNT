@@ -1,0 +1,12 @@
+1
+00:00:01,380 --> 00:00:02,579
+Xin lỗi Thư Phàm đi.
+
+2
+00:00:03,160 --> 00:00:05,679
+Chúng tôi xin lỗi cậu, sau này chúng tôi không dám nói lung tung nữa đâu ạ.
+
+3
+00:00:05,680 --> 00:00:07,819
+Mấy chuyện đó cũng chỉ là tôi nghe đồn thôi.
+

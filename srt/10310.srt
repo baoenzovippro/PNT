@@ -1,0 +1,20 @@
+1
+00:00:00,120 --> 00:00:01,439
+Tôi có thuốc đây.
+
+2
+00:00:01,600 --> 00:00:03,079
+Yên tâm, cậu sẽ không sao đâu.
+
+3
+00:00:04,680 --> 00:00:07,019
+Xem ra cậu cũng biết cách chăm sóc người khác đấy nhỉ.
+
+4
+00:00:07,220 --> 00:00:10,519
+Nếu không thì cũng sao mà chăm nổi cả đám này được.
+
+5
+00:00:14,780 --> 00:00:16,559
+Chắc cậu ấy không hiểu lầm rồi chứ？
+

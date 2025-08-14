@@ -1,0 +1,8 @@
+1
+00:00:00,020 --> 00:00:01,499
+Phục vụ! Thay giùm tôi ga giường với!
+
+2
+00:00:01,620 --> 00:00:03,899
+Khách muốn tôi trải ga giường cơ đấy, không phải chuyện đùa đâu nha.
+

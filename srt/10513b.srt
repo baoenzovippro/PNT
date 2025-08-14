@@ -1,0 +1,12 @@
+1
+00:00:02,200 --> 00:00:03,899
+Tôi không thích trò đóng vai này.
+
+2
+00:00:04,140 --> 00:00:05,719
+Tôi phải đi làm việc đây.
+
+3
+00:00:08,280 --> 00:00:11,759
+Xem ra cậu sắp bỏ lỡ tiết mục đặc biệt mà tôi đã chuẩn bị cho cậu rồi.
+

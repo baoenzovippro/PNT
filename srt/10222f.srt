@@ -1,0 +1,12 @@
+1
+00:00:00,180 --> 00:00:01,879
+Phục vụ ơi! Giúp tôi thay ga trải giường với!
+
+2
+00:00:02,480 --> 00:00:03,719
+Giao hàng đây! Tới liền!
+
+3
+00:00:03,980 --> 00:00:06,619
+Lần sau lại nghe cậu kể tiếp nhé, tôi đi trước đây.
+

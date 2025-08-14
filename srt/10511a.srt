@@ -1,0 +1,12 @@
+1
+00:00:01,360 --> 00:00:03,019
+Tôi không thích kiểu đóng kịch này.
+
+2
+00:00:03,020 --> 00:00:04,159
+Tôi phải đi làm đây.
+
+3
+00:00:06,520 --> 00:00:09,999
+Xem ra cậu sắp bỏ lỡ tiết mục đặc biệt mà tôi chuẩn bị cho cậu rồi.
+

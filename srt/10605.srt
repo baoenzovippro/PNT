@@ -1,0 +1,8 @@
+1
+00:00:00,860 --> 00:00:01,919
+Cái này cho cậu này
+
+2
+00:00:01,920 --> 00:00:05,059
+Cào xong là có thể bắt đầu bữa tiệc sinh nhật hôm nay đó nha!
+

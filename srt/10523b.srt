@@ -1,0 +1,12 @@
+1
+00:00:05,140 --> 00:00:08,139
+Bông hồng đẹp nhất cũng không xứng với cậu.
+
+2
+00:00:09,100 --> 00:00:10,879
+Nhưng tôi hy vọng rằng ngay lúc này,
+
+3
+00:00:11,480 --> 00:00:13,999
+cậu có thể vui hơn một chút vì bông hồng này!
+
